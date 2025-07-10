@@ -1,0 +1,1 @@
+Please use Mozilla Firefox to view flags in this project.
